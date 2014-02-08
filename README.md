@@ -1,4 +1,6 @@
 tripperman
 ==========
 
-The Elastic Tripcode Manager
+The Elastic Tripcode Mining Manager
+
+==========
